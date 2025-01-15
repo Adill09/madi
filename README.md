@@ -6,10 +6,10 @@
     <title>The Site of the Chess</title>
 </head>
 <body bgcolor="#10000" text="#ffffff">
-    <font size="9" color="#ff1000">Pashalka Ishi</font>
+    <font size="9" color="#ff1000">Himia norm</font>
     <br>
     <hr>
-    <h2>Magnus Carlsen be like:</h2>
+    <h2>Raiting top players be like:</h2>
     <br>
     <img src="Chess.png" alt="Chess Image">
     <br>
