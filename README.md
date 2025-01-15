@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Site of the Memes</title>
+    <h1>The Site of the Memes</h1>
 </head>
 <body bgcolor="#10000" text="#ffffff">
     <font size="9" color="#ff1000">Chill Guy</font>
