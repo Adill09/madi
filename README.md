@@ -14,7 +14,7 @@
     <img src="Chess.png" alt="Chess Image">
     <br>
     <img src="img/IMG_20250114_173239.jpg" alt="abai">
-    <img src="Chess.png" alt="opencil">
+    <img src="img/IMG-20250115-WA0000.jpg" alt="opencil">
     <font size="4" color="#ff1000"><b>МадиярПон</b></font>
     <h3><i>ИскоПон</i></h3>
     <h3><u>ДимашПон</u></h3>
