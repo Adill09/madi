@@ -13,7 +13,7 @@
     <br>
     <img src="Chess.png" alt="Chess Image">
     <br>
-    <img src="abai.jpg" alt="abai">
+    <img src="img/IMG_20250114_173239.jpg" alt="abai">
     <font size="4" color="#ff1000"><b>МадиярПон</b></font>
     <h3><i>ИскоПон</i></h3>
     <h3><u>ДимашПон</u></h3>
