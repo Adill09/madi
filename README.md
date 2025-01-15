@@ -15,7 +15,7 @@
     <img src="img/IMG_20250114_173239.jpg" alt="abai">
     <img src="img/IMG-20250115-WA0000.jpg" alt="opencil">
     <br>
-    <img src="Chess.png" alt="Chess Image">
+    <img src="img/IMG-20250114-WA0004.jpg" alt="Nosok">
     <br>
     <br>
     <font size="4" color="#ff1000"><b>МадиярПон</b></font>
